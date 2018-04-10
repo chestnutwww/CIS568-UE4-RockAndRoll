@@ -16,7 +16,7 @@ Rock and Roll is a physically based puzzle solving game in Unreal Engine 4. A ba
 * [Trailer video](https://www.youtube.com/watch?v=UoCXtykFH8o)
 * [Gameplay Video](https://www.youtube.com/watch?v=amp54_yxOrs)
 
-**Group Member and Responsibilities:**
+**Group Members and Responsibilities:**
 * [Yalun Hu](https://github.com/chestnutwww):
 	* Grid-based placement
 	* UI design and implementation
@@ -60,7 +60,7 @@ The game has 9 levels. The first 5 levels are tutorial levels that teach the pla
   <img src="img/level1.png" width="960" height="540">
 </p>
 
-## 3. Phisically based gameplay
+## 3. Physically based gameplay
 
 The game consist of two parts: placing and playing.
 
