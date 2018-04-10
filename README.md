@@ -37,12 +37,28 @@ Rock and Roll is a physically based puzzle solving game in Unreal Engine 4. A ba
 * "How to play"
 	* Teach the player the rules and procedures of the game in a descriptive way.
 
+<p align="center">
+  <img src="img/howtoplay.png" width="960" height="540">
+</p>	
+	
 * Control Information
 	* Tell the player the control information.
+
+<p align="center">
+  <img src="img/control.png" width="960" height="540">
+</p>
 
 ## 2. Tutorial levels
 
 The game has 9 levels. The first 5 levels are tutorial levels that teach the player how to use each item in the game.
+
+<p align="center">
+  <img src="img/selection.png" width="960" height="540">
+</p>
+
+<p align="center">
+  <img src="img/level1.png" width="960" height="540">
+</p>
 
 ## 3. Phisically based gameplay
 
@@ -53,6 +69,10 @@ Select items and place them on proper positions.
 
 * Playing part:
 Release the ball to see if it can get the destination.
+
+<p align="center">
+  <img src="img/level6.png" width="960" height="540">
+</p>
 
 ## 4. Differet kinds of items
 
