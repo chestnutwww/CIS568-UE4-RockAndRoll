@@ -18,27 +18,27 @@ Rock and Roll is a physically based puzzle solving game in Unreal Engine 4. A ba
 
 **Group Member and Responsibilities:**
 * [Yalun Hu](https://github.com/chestnutwww):
- * Grid-based placement
- * UI design and implementation
- * Data structure design and implementation
- * Level implementation
+	* Grid-based placement
+	* UI design and implementation
+	* Data structure design and implementation
+	* Level implementation
 * [Jiahao Liu](https://github.com/lostink):
- * Level design
- * Debugging and parameter optimization
- * Level implementation
+	* Level design
+	* Debugging and parameter optimization
+	* Level implementation
 * [Xinyu Lin](https://github.com/460xlin):
- * Item design and implementation
- * Level implementation
+	* Item design and implementation
+	* Level implementation
 
 # Features
 
 ## 1. Descriptive tutorial
 
 * "How to play"
- * Teach the player the rules and procedures of the game in a descriptive way.
+	* Teach the player the rules and procedures of the game in a descriptive way.
 
 * Control Information
- * Tell the player the control information.
+	* Tell the player the control information.
 
 ## 2. Tutorial levels
 
@@ -59,13 +59,13 @@ Release the ball to see if it can get the destination.
 Items are used to help the ball get the destination.
 
 * Left/Right turn
- * The ball will turn left/right if it hits this item.
+	* The ball will turn left/right if it hits this item.
 
 * Acceleration/Decceleration
- * The ball will Accelerate/Deccelerate if it passes through this item.
+	* The ball will Accelerate/Deccelerate if it passes through this item.
 
 * Normal Cube
- * This item will block the ball or fill the hole on the ground.
+	* This item will block the ball or fill the hole on the ground.
 
 # References
 
